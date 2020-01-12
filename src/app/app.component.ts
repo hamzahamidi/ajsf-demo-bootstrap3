@@ -6,7 +6,7 @@ import schema from './schema.json';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  selectedFramework: string = 'no-framework';
+  selectedFramework: string = 'bootstrap-3';
   schema: any;
 
   constructor() {
