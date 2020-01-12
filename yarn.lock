@@ -2,6 +2,15 @@
 # yarn lockfile v1
 
 
+"@ajsf/bootstrap3@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@ajsf/bootstrap3/-/bootstrap3-0.1.2.tgz#1366af4dc109bf60e56aa2378e34eb646f50e50b"
+  integrity sha512-vlVU5EJ87I/eTp1ByLN/xrwrp8u0xS4ODmCRlVI8ffWJDsKxAYqSrXcyI/67rGbs8/BhYK/UvPeEpGCW2QM/Iw==
+  dependencies:
+    "@ajsf/core" "^0.1.2"
+    lodash-es "^4.17.15"
+    tslib "^1.9.0"
+
 "@ajsf/core@^0.1.2":
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/@ajsf/core/-/core-0.1.2.tgz#4bf213f1f701937d025974ed7947b31c2548b227"
