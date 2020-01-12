@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/hamzahamidi/ajsf-demo-bootstrap3.svg?branch=master)](https://travis-ci.org/hamzahamidi/ajsf-demo-bootstrap3)
 
-Demo application using [Angular JSON Schema Form application core](https://github.com/hamzahamidi/ajsf).
+Demo application using [Angular JSON Schema Form application](https://github.com/hamzahamidi/ajsf) for Bootstrap 3.
 
 Feel free to check the online [demo](https://hamidihamza.com/ajsf-demo-bootstrap3).
 
